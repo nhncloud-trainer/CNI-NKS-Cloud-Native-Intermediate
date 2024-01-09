@@ -3,7 +3,7 @@ package com.nhncloud.edu;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class NhnCloudObsControlApplication {
 
 	public static void main(String[] args) {
